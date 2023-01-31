@@ -1,0 +1,12 @@
+{
+  "Left": 37,
+  "Right": 39,
+  "Hold": 67,
+  "RotateCW": 88,
+  "RotateCCW": 90,
+  "SoftDrop": 40,
+  "HardDrop": 32,
+  "ARR": 2,
+  "DAS": 12,
+  "SDF": 6
+}
